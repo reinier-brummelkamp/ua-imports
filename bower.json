@@ -1,6 +1,6 @@
 {
   "name": "ua-imports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Reinier Brummelkamp <reinier@urbanautomation.co.za>"
   ],
@@ -34,7 +34,8 @@
     "bootstrap-table": "1.10.1",
     "eonasdan-bootstrap-datetimepicker": "4.17.37",
     "mdi": "1.5.54",
-    "toastr": "2.1.2"
+    "toastr": "2.1.2",
+    "PreloadJS": "0.6.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
