@@ -1,6 +1,6 @@
 {
   "name": "ua-imports",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "authors": [
     "Reinier Brummelkamp <reinier@urbanautomation.co.za>"
   ],
@@ -37,7 +37,8 @@
     "toastr": "2.1.2",
     "PreloadJS": "0.6.2",
     "animate.css": "3.5.1",
-    "urijs": "1.18.0"
+    "urijs": "1.18.0",
+    "numeral": "1.5.3"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
